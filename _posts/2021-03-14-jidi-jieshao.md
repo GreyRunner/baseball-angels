@@ -2,7 +2,7 @@
 title:  "强棒天使项目介绍"
 subtitle: "强棒天使强棒基地的【棒！少年】"
 author: "Erin"
-image: "assets/images/logo.png"
+image: "assets/images/团队.jpeg"
 ---
 
 ![301]({{ site.baseurl }}/assets/images/logo.png)
