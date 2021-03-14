@@ -65,7 +65,7 @@ image: "assets/images/团队.jpeg"
 | 2019.7 | 全国青少年棒球锦标赛 | 亚军 |  
 
 
-![301]({{ site.baseurl }}/assets/images/sunlingfeng.jpeg)
+
 
 #### References
 内容图片来源: 百度百科
