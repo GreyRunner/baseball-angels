@@ -8,6 +8,7 @@ image: "assets/images/单人棒球.jpeg"
 
 ## 吾尔作曲的小采访
 *一个娇俏可爱的小美人，娇羞恬静之中透着活泼，在嘴角有两个浅浅的酒窝时常亮起，活像个童话故事的小公主* 
+
 ![wuer]({{ site.baseurl }}//assets/images/单人棒球.jpeg)
 
 #### 你叫什么名字呀？
@@ -18,6 +19,7 @@ image: "assets/images/单人棒球.jpeg"
 
 #### 你平时的兴趣爱好有哪些呀？
 > 我喜欢画画，最擅长的科目是数学。我很喜欢打棒球
+
 ![wuer]({{ site.baseurl }}//assets/images/学习画画.png)
 
 #### 什么时候开始学习棒球的？
@@ -28,6 +30,7 @@ image: "assets/images/单人棒球.jpeg"
 
 #### 在棒球基地的一天是如何度过的呢？
 > 早晨7点起床吃早饭，上午上课，有语文，数学，画画。每天最喜欢学习和画画，还会参加劳动
+
 ![wuer]({{ site.baseurl }}//assets/images/萝卜.jpeg)
 
 #### 棒球学习过程中遇到过什么困难或问题？是如何克服这些问题的？
@@ -35,6 +38,7 @@ image: "assets/images/单人棒球.jpeg"
 
 #### 你的愿望是什么？
 > 当一名老师
+
 ![wuer]({{ site.baseurl }}//assets/images/团队.jpeg)
 
 #### 如果没有棒球，你觉得你的人生是什么样子？
