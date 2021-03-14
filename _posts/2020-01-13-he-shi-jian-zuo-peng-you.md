@@ -56,6 +56,7 @@ image: "assets/images/300.jpg"
 | 2019.8 | 第四届清华大学尹嘉瑞杯青少年棒球邀请赛 | 亚军 |
 | 2019.7 | 全国青少年棒球锦标赛 | 冠军 |
 | 2019.7 | 全国青少年棒球锦标赛 | 亚军 |
+
 ![301]({{ site.baseurl }}/assets/images/301.jpg)
 ![301]({{ site.baseurl }}/assets/images/301.jpg)
 ![301]({{ site.baseurl }}/assets/images/301.jpg)
