@@ -66,6 +66,3 @@ image: "assets/images/团队.jpeg"
 
 
 
-
-#### References
-内容图片来源: 百度百科
