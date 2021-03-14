@@ -2,6 +2,7 @@
 title:  "吾尔作曲——一个娇羞恬静之中透着活泼的小公主"
 subtitle: "强棒少女的陪伴日记"
 author: "Erin"
+avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/单人棒球.jpeg"
 ---
 
